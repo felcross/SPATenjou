@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "url": "https://www.chinadaily.com.cn/life/images/attachement/jpg/site1/20110304/002564bc712b0edace9217.jpg",
+        "titulo": "ClÃ SUZUMU",
+        "texto": ">O clã Suzumo é descendente do Yokai ***Suzaku***, que é um yokai parente dos poderosos shijin's figuras mitológicas importantes como guardiões da China. Suzaku é portador do fogo da vida.\n\n",
+        "dons": "### Dons de Sangue \n\n  ## Corpo em chamas \n\n +4for +6 dano/ativação ***3M em area, um circulo em volta de vc*** \n\n",
+        "jutsu":"### Jutsu \n\n  ## Fogo da vida \n\n 1d4+AUR/Cura \n\n  ## Banimento de fogo \n\n 1d6+AUR dano/acerto ***AUR contra AUR, inimigo é teleportado metros em dano*** \n\n",
+        "transformação":"### Transformação \n\n ***Modo espirito de fogo*** \n\n +4 FOR +4 VIG \n\n",
+        "passiva":"### Passiva \n\n ## Asas de fogo(teleporte) \n\n cada ponto de aur = 10 metros,uma vez a cada 24h. \n\n ## Cura acelerada no fogo \n\n  1d4 por hora,maximo de horas AUR \n\n ## Punho de fogo \n\n 1d6 de dano"
+    },
+    {
+        "id": 2,
+        "url": "https://mundo-nipo.com/wp-content/uploads/2013/05/Yuki-onna-obra-de-Takeda-Foto-Reproducao-740x-atualizado.jpg",
+        "titulo": "ClÃ AIZO",
+        "texto": ">O clã Aizo é descendente do Yokai ***Yuki Onna***, Ela caça viajantes perdidos nas fortes tempestades de neve que cobrem os Alpes japoneses no inverno. Eles têm uma beleza sobrenatural, com longos cabelos negros e olhos escuros e penetrantes. Sua pele é eterna e branca como a neve, mas seus corpos são frios como gelo. Um mero toque é suficiente para dar a um ser humano um calafrio profundo e inabalável. Eles se alimentam de força vital, sugando-a da boca dos humanos com um hálito gelado que congela suas vítimas.\n\n",
+        "dons": "### Dons de Sangue \n\n  ## Geada \n\n -2 PER turno/ativação ***3M em area, um circulo em volta de vc*** \n\n ## Congelar \n\n cc -2 VEL only esquiva/acerto \n\n ## Esquife de gelo \n\n -6 dano esquiva only, teste resistido AUR contra AUR \n\n ***6M Linha reta, Caso o alvo não rompa o esquife continuará congelado***  \n\n",
+        "jutsu":"### Jutsu \n\n  ## Estaca de gelo  \n\n 1d6+aur only aparo ***9M linha reta \n\n  ## Olhar Congelante \n\n 1d6+AUR dano/acerto only esquiva, teste resistido AUR contra AUR \n\n ***começa proximo turno com metade da VEL*** \n\n",
+        "transformação":"### Transformação \n\n ***Modo espirito de Gelo*** \n\n +4 PER +4 VIG \n\n",
+        "passiva":"### Passiva \n\n ## Congelar Objetos \n\n cada ponto de aur 500g \n\n ## Cura acelerada no Gelo \n\n  1d4 por hora,maximo de horas AUR \n\n ## Arma de Gelo \n\n 1d6 de dano"
+    },
+    {
+        "id": 3,
+        "url": "https://cdn.dribbble.com/users/153493/screenshots/987620/media/13f07d1813ca7484dc2cfb439ee2bf99.jpg?compress=1&resize=400x300",
+        "titulo": "ClÃ NURA",
+        "texto": "> O clã Nura é descendente do Yokai ***Ichimokuren***, ele é uma espécie de divindade do vento na forma de um dragão de apenas um olho. Segundo a lenda, este youkai reside o Monte Tado, localizado no sul do Japão. Apesar da sua função protetora, o Ichimokuren possui uma personalidade violenta e furiosa, criando ventanias fortes capazes de virar barcos e destruir casas.",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    },
+    {
+        "id": 4,
+        "url": "https://i.pinimg.com/originals/4e/d5/80/4ed580ed976533e27018e8f002cc7afe.jpg",
+        "titulo": "ClÃ KITSUNE",
+        "texto": "> O clã Kitsune que leva o mesmo nome do Yokai ***KITSUNE*** são descendentes da grande ***Kyuubi no Kitsune*** a Raposa de nove caudas. Existem duas variações principais de kitsune. As raposas sagradas são servas da divindade xintoísta Inari, e os santuários de Inari são decorados com estátuas e imagens dessas raposas. Lendas falam de raposas celestiais fornecendo sabedoria ou serviço a humanos bons e piedosos. Essas raposas sagradas atuam como mensageiras dos deuses e médiuns entre os mundos celestial e humano. Eles geralmente protegem humanos ou lugares, fornecem boa sorte e afastam os maus espíritos. Porem o mais comuns são as raposas selvagens que se deliciam com travessuras, brincadeiras ou maldades. Existem histórias em que raposas selvagens enganam ou até possuem humanos, fazendo com que eles se comportem de maneira estranha. Apesar dessa natureza perversa, até as raposas selvagens cumprem suas promessas, lembram-se de amizades e retribuem qualquer favor feito por elas.",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    },
+    {
+        "id": 5,
+        "url": "https://cdn.shopify.com/s/files/1/0255/2984/3805/files/yamata_no_orochi_par_Maukamauka_1024x1024.jpg?v=1598604743",
+        "titulo": "ClÃ OROCHI",
+        "texto": "> O clã orochi é descendente da ***Besta Yokai Yamata no Orochi*** que após ser derrotado pelo deus do trovão, e ter seu corpo desmembrado, devido a isso, hoje seu poder se equivale a um ***YOKAI***, Yamata no Orochi  é uma serpente gigantesca com oito cabeças e oito caudas. Tem olhos vermelhos brilhantes e uma barriga vermelha. A besta é tão grande que seu corpo cobre a distância de oito vales e oito colinas. Abetos e ciprestes crescem em suas costas e seu corpo é coberto de musgo.",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    },
+    {
+        "id": 6,
+        "url": "https://arthur.io/img/art/jpg/000173452b9a583de/matthew-meyer/karasu-tengu/large/matthew-meyer--karasu-tengu.jpg",
+        "titulo": "ClÃ KARASU",
+        "texto": "> O clã Karasu é descendente do Yokai ***KARASU TENGU*** da familia dos ***Tengus*** desde antigos tempos, os gigantes alados conhecidos como Tengu (天狗), caracterizam-se por possuir fortes traços humanos acoplados aos da ave de rapina.possuem corpo humano e cabeça de corvo. A altivez era a característica mais retratada dos Tengu nos antigos registros, essas soberbas criaturas gostavam de pregar peças em humanos e de tentar samurais e monges budistas pretensiosos e arrogantes.Detentores de muitos poderes, tengu são tidos como Kami das Montanhas (deuses). No entanto, ao mesmo tempo em que eram adorados como uma divindade das montanhas em várias regiões do país, também eram temidos por muitos como um Yōkai capaz de trazer calamidades aos humanos. De acordo com o mito, tengu geralmente, vivem vidas solitárias, mas, ocasionalmente, trabalham juntos ou com outros youkai para realizar seus objetivos. Comumente habitam as altas montanhas, vivendo em grutas em penhascos ou florestas, em áreas cercadas por densa natureza.",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    },
+    {
+        "id": 7,
+        "url": "https://i.seadn.io/gae/qyJkYbAVnpOI4FIQjEi3euJj7noKWR2Kxly-JgvPX3jZTno0kb3vReXZe688bF2QKFXF7htCXqr-9Qhgbq8R-irl2fS5nxFuTmnnXg?auto=format&w=1000",
+        "titulo": "ClÃ KAMAKURA",
+        "texto": "> O clã Kamakura é descendente do ***Primeiro Oni*** aquele que fugiu de ***JIGOKU(inferno)*** e se fez o primeiro ***YOKAI***, Oni's nascem quando humanos verdadeiramente perversos morrem e acabam em um dos muitos infernos budistas. Transformados em oni, eles se tornam servos ogros e brutais do Grande Lorde Enma, governante do inferno. Empunhando grandes clavas de ferro, eles esmagam e destroem humanos apenas por prazer. O trabalho de um oni é aplicar punições horríveis, como arrancar peles, esmagar ossos e tornar outros tormentos horríveis demais para serem descritos. Todas essas torturas são para pecadores perversos - mas apenas para aqueles que não são perversos o suficiente para renascer como oni. O inferno está cheio de oni. Eles compõem os exércitos dos grandes generais do submundo.",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    },
+    {
+        "id": 8,
+        "url": "https://i.pinimg.com/474x/a0/50/40/a05040f04f59146b91b7a76a3e33dee4.jpg",
+        "titulo": "ClÃ KUROHIME",
+        "texto": "> O clã kurohime é descendente do ***Yokai***  ***Hinoenma*** que são yōkais femininas perversas que assim como os ***ONI'S** foram as primeiras Yokais(femininas) a fugirem do ***JIGOKU*** parecem com mulheres bonitas. Elas usam sua beleza para atrair os jovens e destruí-los, o folclore do Leste Asiático está cheio de contos de advertência nos quais os hinoenma usaram sua beleza e charme para destruir os homens. As quedas de três das grandes dinastias da China são atribuídas às mulheres yōkai. Homens que se encantam por um hinoenma são rapidamente arruinados. O hinoenma se alimenta de sua virilidade e de sua força vital, fazendo com que se tornem cada vez mais fracos. ",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    },
+    {
+        "id": 9,
+        "url": "https://yokai.com/wordpress/wp-content/uploads/2022/09/kuzuryuu.jpg",
+        "titulo": "ClÃ NATSUME",
+        "texto": "> O clã Natsume é descendente do ***Yokai Kuzuryu*** por sua vez Kuzuryu faz parte dos ***“Wani” (dragões dos mares)*** são dragões poderosos que governam corpos de água e servem como divindades tutelares desses lugares.***Kuzuryu*** é referido como um dragão venenoso e feroz que habita um lago na região, no qual humanos tinham que oferecer sacrifícios. No entanto, reza a lenda que após ser exorcizado, a criatura tornou-se o guardião local.",
+        "dons": "### Dons de Sangue \n\n  ",
+        "jutsu":"### Jutsu \n\n ",
+        "transformação":"### Transformação \n\n ****** \n\n \n\n",
+        "passiva":"### Passiva \n\n "
+    }
+]
