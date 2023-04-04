@@ -17,17 +17,17 @@
         "dons": "### Dons de Sangue \n\n  ## Geada \n\n -2 PER turno/ativação ***3M em area, um circulo em volta de vc*** \n\n ## Congelar \n\n cc -2 VEL only esquiva/acerto \n\n ## Esquife de gelo \n\n -6 dano esquiva only, teste resistido AUR contra AUR \n\n ***6M Linha reta, Caso o alvo não rompa o esquife continuará congelado***  \n\n",
         "jutsu":"### Jutsu \n\n  ## Estaca de gelo  \n\n 1d6+aur only aparo ***9M linha reta \n\n  ## Olhar Congelante \n\n 1d6+AUR dano/acerto only esquiva, teste resistido AUR contra AUR \n\n ***começa proximo turno com metade da VEL*** \n\n",
         "transformação":"### Transformação \n\n ***Modo espirito de Gelo*** \n\n +4 PER +4 VIG \n\n",
-        "passiva":"### Passiva \n\n ## Congelar Objetos \n\n cada ponto de aur 500g \n\n ## Cura acelerada no Gelo \n\n  1d4 por hora,maximo de horas AUR \n\n ## Arma de Gelo \n\n 1d6 de dano"
+        "passiva":"### Passiva \n\n ## Congelar Objetos \n\n cada ponto de aur 500g \n\n ## Cura acelerada no Gelo \n\n  1d4 por hora,maximo de horas AUR \n\n ## Arma de Gelo \n\n 1d6 de dano \n\n aprimoramento magico<elemento vento> "
     },
     {
         "id": 3,
         "url": "https://cdn.dribbble.com/users/153493/screenshots/987620/media/13f07d1813ca7484dc2cfb439ee2bf99.jpg?compress=1&resize=400x300",
         "titulo": "ClÃ NURA",
-        "texto": "> O clã Nura é descendente do Yokai ***Ichimokuren***, ele é uma espécie de divindade do vento na forma de um dragão de apenas um olho. Segundo a lenda, este youkai reside o Monte Tado, localizado no sul do Japão. Apesar da sua função protetora, o Ichimokuren possui uma personalidade violenta e furiosa, criando ventanias fortes capazes de virar barcos e destruir casas.",
-        "dons": "### Dons de Sangue \n\n  ",
-        "jutsu":"### Jutsu \n\n ",
-        "transformação":"### Transformação \n\n ****** \n\n \n\n",
-        "passiva":"### Passiva \n\n "
+        "texto": "> O clã Nura é descendente do Yokai ***Ichimokuren***, ele é uma espécie de divindade do vento na forma de um dragão de apenas um olho. Segundo a lenda, este youkai reside o Monte Tado, localizado no sul do Japão. Apesar da sua função protetora, o Ichimokuren possui uma personalidade violenta e furiosa, criando ventanias fortes capazes de virar barcos e destruir casas. \n\n",
+        "dons": "### Dons de Sangue \n\n  ## Folhas Afiadas \n\n 3m ***em volta de voce*** +4 dano/ativação \n\n ## Tornado \n\n 3m +6 dano esquiva only \n\n inimigo fica preso no tornado, ***teste resistido AUR contra AUR*** pra sair \n\n Caso falhe ficara preso no tornado com mais uma rodada de dano \n\n OBS: ***caso se tente acertar o alvo preso no tornado o atacante jogará com -6 no teste de atq.devido velocidade apenas ataques magicos adentram a aréa do tornado, golpes magicos feitos com execução desfazem o tornado tanto de dentro quanto de fora*** \n\n",
+        "jutsu":"### Jutsu \n\n  ## Corte de Vento \n\n 6m ***(linha reta)*** 1d6+AUR only aparo \n\n ## Lufada de Vento \n\n cc ***corpoacorpo***  1d4+AUR dano only esquiva \n\n ***teste resistido*** de ***AUR+FOR***, caso falhe alvo é arrastado pelo numero de dano em metros. \n\n",
+        "transformação":"### Transformação \n\n ***modo espirito do vento*** \n\n ***+4 VEL +4 PER*** \n\n \n\n",
+        "passiva":"### Passiva \n\n ***1 de CONST*** \n\n ***arma de vento 1d6*** \n\n ## levanta/move com o vento a cada 1 ponto \n\n ***AUR 500g*** \n\n ## flutuar(queda lenta). \n\n ***Pode flutuar 40CM do chão***\n\n aprimoramento magico<elemento vento>  \n\n"
     },
     {
         "id": 4,
