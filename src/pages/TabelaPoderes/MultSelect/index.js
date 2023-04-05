@@ -14,10 +14,10 @@ const options2 = [
   { value: 10, label: "AGUA 10MP" },
   { value: 10, label: "FOGO  10MP" },
   { value: 10, label:  "VENTO 10MP" },
-  { value: 5, label: "TERRA 10MP" },
-  { value: 5, label: "GELO 10MP" },
-  { value: 5, label: "LUZ 10MP" },
-  { value: 5, label: "TREVAS 07MP" },
+  { value: 10, label: "TERRA 10MP" },
+  { value: 10, label: "GELO 10MP" },
+  { value: 10, label: "LUZ 10MP" },
+  { value: 7, label: "TREVAS 07MP" },
  
 ];
 
