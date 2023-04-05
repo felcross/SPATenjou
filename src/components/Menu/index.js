@@ -11,6 +11,12 @@ export default function Menu() {
                 <MenuLink to="/combate">
                    Combate
                 </MenuLink>
+                <MenuLink to="/historia">
+                   Historia
+                </MenuLink>
+                <MenuLink to="/tabeladepoderes">
+                   Poderes
+                </MenuLink>
             </nav>
         </header>
     )

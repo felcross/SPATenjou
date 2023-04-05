@@ -6,7 +6,9 @@ import Post from "pages/Post";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Menu from "./components/Menu";
 import Inicio from './pages/Inicio';
-import SobreMim from './pages/SobreMim';
+import Combate from './pages/Combate';
+import Historia from './pages/Historia';
+import TabelaPoderes from './pages/TabelaPoderes';
 
 function AppRoutes() {
   return (
@@ -17,7 +19,10 @@ function AppRoutes() {
       <Routes>
         <Route path="/" element={<PaginaPadrao />}>
           <Route index element={<Inicio />} />
-          <Route path="combate" element={<SobreMim />} />
+          <Route path="combate" element={<Combate />} />
+          <Route path="historia" element={<Historia />} />
+          <Route path="tabeladepoderes" element={<TabelaPoderes />} />
+          
         </Route>
         
         <Route path="posts/:id/*" element={<Post />} />
