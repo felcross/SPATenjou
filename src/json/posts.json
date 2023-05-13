@@ -14,8 +14,8 @@
         "url": "https://mundo-nipo.com/wp-content/uploads/2013/05/Yuki-onna-obra-de-Takeda-Foto-Reproducao-740x-atualizado.jpg",
         "titulo": "ClÃ AIZO",
         "texto": ">O clã Aizo é descendente do Yokai ***Yuki Onna***, Ela caça viajantes perdidos nas fortes tempestades de neve que cobrem os Alpes japoneses no inverno. Eles têm uma beleza sobrenatural, com longos cabelos negros e olhos escuros e penetrantes. Sua pele é eterna e branca como a neve, mas seus corpos são frios como gelo. Um mero toque é suficiente para dar a um ser humano um calafrio profundo e inabalável. Eles se alimentam de força vital, sugando-a da boca dos humanos com um hálito gelado que congela suas vítimas.\n\n",
-        "dons": "### Dons de Sangue \n\n  ## Geada \n\n -2 PER turno/ativação ***3M em area, um circulo em volta de vc*** \n\n ## Congelar \n\n cc -2 VEL only esquiva/acerto \n\n ## Esquife de gelo \n\n -6 dano esquiva only, teste resistido AUR contra AUR \n\n ***6M Linha reta, Caso o alvo não rompa o esquife continuará congelado***  \n\n",
-        "jutsu":"### Jutsu \n\n  ## Estaca de gelo  \n\n 1d6+aur only aparo ***9M linha reta \n\n  ## Olhar Congelante \n\n 1d6+AUR dano/acerto only esquiva, teste resistido AUR contra AUR \n\n ***começa proximo turno com metade da VEL*** \n\n",
+        "dons": "### Dons de Sangue \n\n  ## Arma Diamante de Gelo \n\n ***+1nvD 1xturno/ativação*** \n\n ## Geada \n\n ***3m -2 vel  1xturno/ativação*** \n\n ## Kami do gelo \n\n ***3m +2 aur  1xturno/ativação*** \n\n",
+        "jutsu":"### Jutsu \n\n  ## Corte de Gelo  \n\n ***CC 1d8+for***\n\n  ## Estaca de Gelo \n\n ***9m 1d6+aur only esquiva***\n\n",
         "transformação":"### Transformação \n\n ***Modo espirito de Gelo*** \n\n +4 PER +4 VIG \n\n",
         "passiva":"### Passiva \n\n ## Congelar Objetos \n\n cada ponto de aur 500g \n\n ## Cura acelerada no Gelo \n\n  1d4 por hora,maximo de horas AUR \n\n ## Arma de Gelo \n\n 1d6 de dano \n\n aprimoramento magico<elemento vento> "
     },

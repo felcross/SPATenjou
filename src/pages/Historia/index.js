@@ -29,21 +29,17 @@ export default function SobreMim() {
             A história se passa em um Japão feudal, onde existem seres conhecidos como yokais, criaturas sobrenaturais que vagam pelo mundo. Alguns desses yokais se misturaram com humanos, dando origem aos meio-yokais, também conhecidos como bestas imperiais.
             </p>
             <h4 className={styles.subtitulo}>
-            No início da história... 
+            No início da história... (Final da era Heian)
               </h4>
             <p className={styles.paragrafo}>
-           Nasce Abe no Seimei, um humano com poderes divinos enviado pela deusa Amaterasu. Seimei faz um acordo com os meio-yokais, prometendo criar um lugar no mundo espiritual para as almas desses seres descansarem e reencarnarem em paz por toda a eternidade. Para isso, ele reúne os Han'yō mais fortes, descendentes dos proprios  yokais mais poderosos para derrotarem todos os grandes yokais de Nippon, do aprisionamento desses yokais são criadas as magatamas, joias que prendem o poder dos yokais e são usadas para criar uma dimensão extra dentro do Jigoku para que a alma dos mortos possa descansar.
+                Abe no Seimei...  um humano com poderes divinos enviado pela deusa Amaterasu. Ele renasceu nas ilhas japonesas para combater os yokais que surgiram em grande quantidade devido aos conflitos entre humanos no fim da era Heian. Seimei deixou um legado para proteger os humanos, criando a escola de onmyojis e concedendo poderes divinos à linhagem imperial. Ele descobriu que alguns yokais se misturaram com humanos, dando origem aos meio-yokais, e os ajudou a evoluir seus poderes. Seimei liderou uma guerra contra os yokais mais fortes e saiu vitorioso, prendendo a energia dos nove yokais mais fortes em magatamas para criar um refúgio no mundo espiritual para os meio-yokais descansarem. Surgiram nove famílias meio-yokais descendentes dos grandes yokais derrotados por Seimei.
             </p>
             <h4 className={styles.subtitulo}>
-            Bestas Imperiais X Onmyojis 
+            Bestas Imperiais X Onmyojis (Era Shogunato)
             </h4>
             <p className={styles.paragrafo}>
-            As bestas imperiais começam a trabalhar na proteção do império japonês, mas acabam entrando em conflito com os onmyojis. Esses humanos não gostam da ideia de terem os meio-yokais como parceiros de trabalho na proteção do império. Eles se tornam poderosos e corruptos, tentando usar as bestas imperiais para benefício próprio e controlá-las.
+            Após os eventos que levaram à criação dos onmyojis e das nove famílias de meio-yokais, Seimei faleceu. Durante séculos, os onmyojis refinaram suas habilidades e a linhagem imperial, dotada da bênção divina, compartilhou seu sangue com outras famílias, surgindo assim uma elite entre os onmyojis. Enquanto isso, as famílias de meio-yokais também refinaram suas habilidades, chegando mais perto de seu lado yokai. Muitos deles começaram a praticar a hyako, enquanto outros se juntaram aos onmyojis para combater yokais mais fortes. Toda uma gama de interações, desde guerras até períodos de amizade, ocorreu entre os onmyojis e as famílias de meio-yokais, até o ano de 1543.
             </p>
-            <p className={styles.paragrafo}>
-           A guerra entre as bestas imperiais e os onmyojis acontece, e depois de muita morte e destruição temos um resultado final após a intervenção do imperador, é a conquista de uma certa liberdade para as bestas imperiais. Elas não são mais supervisionadas e passam a trabalhar em conjunto com os onmyojis, mas agora em um ambiente de cooperação mútua ou pelo menos era assim que eles queriam pensar que seria...            
-            </p>        
-          
         
             <p className={styles.paragrafo}> 
             Continua em breve.. 
